@@ -1,0 +1,2129 @@
+fileFormatVersion: 2
+guid: 385148939a1a8b6499cc3276895c231d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 898
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66ffe340e8f5b14084080304b1a944d
+      internalID: 228694483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 928
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386da8477089651409d8096b0ca30690
+      internalID: -2074006608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 929
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d054df42dad17e41aeb9b43be4503f8
+      internalID: 397206737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 928
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e93de4e560acea40ac321b09a0a194a
+      internalID: 1971323966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 932
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8261c2197df651f478367c433ed02275
+      internalID: -105384793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 928
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ab96a5163867e4588446f573ea592a
+      internalID: 520001672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_6
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 901
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038b72f6732b50b4e8ee9c2c90c1bdda
+      internalID: -1011258600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 901
+        width: 83
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b14e5f7ac24a942b070b752707c357
+      internalID: 490636654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_8
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 890
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2ef7ab13be1c24db350d034a6ce045
+      internalID: 986050641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_9
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 935
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04d30e44159e2144a21c4fbb5ae8524
+      internalID: -755631400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_10
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 882
+        width: 120
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be174c8ed5beb84438f2cc508a8c1f9f
+      internalID: -1495122595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_11
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 904
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03482d785a81da944999792aafeb4a6a
+      internalID: -1322639237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 898
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c167f0f070bc1324aaaec9b5144e8442
+      internalID: -590432192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 898
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6044bb7d85720243b6053d9de725e5a
+      internalID: -539083119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_14
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 899
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b691ca959b9c64d826848502535809
+      internalID: 287661378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 896
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa59cb36c84f9d64fb751001cee4e08e
+      internalID: 1494144640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 896
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046e83c9ec078c8418ebd13fd077f692
+      internalID: 2130596294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_17
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 858
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490ee27d51f1e324ab7845d2e790e14e
+      internalID: 1666619845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_18
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 851
+        width: 80
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887b3f88bc8a8e044893bfc07063fc03
+      internalID: 1746649696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_19
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 834
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e568a318c35bc4ca8f10baff037f8c
+      internalID: 242453713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 833
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ac15ff69511874283bd3472aee5b9c
+      internalID: -424202053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_21
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 833
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a205cccca0641e46b065b7e8f7d7492
+      internalID: -1224641296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_22
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 833
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdab38dcb9f4c5448978cf0bcb3a8f7c
+      internalID: 1935251211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_23
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 837
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a42ee3f8542cd84a995dd31e2ca931d
+      internalID: 1580450042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_24
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 838
+        width: 79
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ad674402d62204cb9c54306f282e00
+      internalID: -255274276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_25
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 876
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f41cf73dccbd4d428b5c3aa9f1b57f4
+      internalID: 245717202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_26
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 841
+        width: 102
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c6405eca3e8c54dbfb8de928f0ad62
+      internalID: -1100853602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_27
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 808
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9136c90a3788cc143b60f1955bd3c225
+      internalID: -1184985572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_28
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 834
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2336e8a3147428469eb94a768c0b529
+      internalID: -2109579564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_29
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 757
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112a5089a91e98846ae921774818fa0e
+      internalID: -2053596131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_30
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 807
+        width: 64
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9c8f48a3a0c0243a5121b309cc3463
+      internalID: -834064225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_31
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 781
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de883895ba9aee34fb103b2ecbd77048
+      internalID: -944333955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_32
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 770
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f84072aa4d01bc42b7867e1d903b051
+      internalID: 1513304128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_33
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 770
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219bd8ebab99c5f47964bb0833b5899f
+      internalID: -1618184344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_34
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 770
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03b9e2e96eb1b249bd46a6997383153
+      internalID: 788930342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_35
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 753
+        width: 114
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78b0ffdf91bb7c40a608edcb8ed8a54
+      internalID: 1413433822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_36
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 807
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd740a279849294fbb625e834eae7be
+      internalID: -274184336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_37
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 707
+        width: 69
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1db1a2cbe599b642b9e9989222d4beb
+      internalID: -1038444937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_38
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 759
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb2600d93fc5d7478a15d8b60d445d2
+      internalID: 1953222003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_39
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 769
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3df41646535f6244ad1087d9f749553
+      internalID: 1198539012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_40
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 711
+        width: 68
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7bd30bfc5b6754ebd0caa62ff2d173
+      internalID: 1099765815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_41
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 710
+        width: 68
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a79b16c3bb4cef45bd40886dad13d31
+      internalID: -218974053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 683
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d221a05dea5fa44b3f0477574a507b
+      internalID: 1891010205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_43
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 706
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d59f1633eee0648b5fa8cd574841ab
+      internalID: 1064401580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_44
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 704
+        width: 81
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602645b91f454e64eb2c64a1b2a94a72
+      internalID: -1013551742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_45
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 705
+        width: 79
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8ae056a9678fe4abc5621e5138d353
+      internalID: -707730746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_46
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 705
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85791cef6fa22e64c823ab5ecbdea59a
+      internalID: -1727694130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_47
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 705
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d069489f0bacf46aeb041b779c31e8
+      internalID: -1512591555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_48
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 715
+        width: 97
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb98b78b0565604b99ad629be859a8e
+      internalID: 854698848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_49
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 641
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf84553c5053e94b9292578ca9e272a
+      internalID: 1127307918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_50
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 618
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a22b45cd834ea4abc4237516018a14
+      internalID: 1454878942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_51
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 641
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7981412c72715ad4caa15de14f337c84
+      internalID: -561152892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_52
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 623
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae88053f8dd2a2468ec98ed06ec663b
+      internalID: -192491175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_53
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 629
+        width: 78
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1db6a0cba2dd74493efe89e57946ea
+      internalID: -2117625871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_54
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 575
+        width: 91
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d4bc428dcb17140b0ce1f14441867d
+      internalID: 1580322035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_55
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 575
+        width: 86
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2a8ac81db94b946bece048176c842b
+      internalID: -1591407918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_56
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 575
+        width: 88
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a5a4273e806f8489cc02b76a5b0adf
+      internalID: 246831132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_57
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 578
+        width: 89
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade14ed6875b5804dbd1f64ea4350988
+      internalID: -266724711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_58
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 448
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b64516e8b3076546845bbcd9fd59447
+      internalID: 1571834961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_59
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 621
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4312eb0864c15bb45a1c19012d844aa3
+      internalID: -871460095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_60
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 618
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c545212e6d6af24092a0b86f1c6d17f
+      internalID: -1783461540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_61
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 618
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffba45ef5156ce4f9367e436c40ecf7
+      internalID: 1841755981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_62
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 524
+        width: 70
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ce624cbf6ade24781df484ba07bd18
+      internalID: -1873632309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_63
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 611
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e60d07ad1d08740ac4042f8c4a3fbc
+      internalID: -971004914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_64
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 607
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5a1b760773f7f44aa9f43ca13bc0eb
+      internalID: 1345135444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_65
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 613
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc54b1ed105def64495efb85ed3fe2f7
+      internalID: 231783844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_66
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 516
+        width: 72
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f961472e80d6264a802826ff5ae3858
+      internalID: 231089883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_67
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 531
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50781eb9c5421234293ebd3f4be316c6
+      internalID: -178693925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_68
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 531
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41231030e2f3f34e887f85b97744fda
+      internalID: 1797463523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_69
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 532
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326d97baec00ac44b9538167b0077b1f
+      internalID: 143231517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_70
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 451
+        width: 77
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f8bd0616b8a84439e73ec7f4585e46
+      internalID: 1106030121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_71
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 454
+        width: 76
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085fb7461b7a46b4bb7213128f929dbe
+      internalID: -2142285450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_72
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 448
+        width: 165
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42924319deee6804a9ddab3ea76ab59c
+      internalID: -1759223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_73
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 459
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb1ff20711934a4c841d0022afcbde4
+      internalID: 1063323197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_74
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 519
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafdcaea250729440abd4e12599acdf6
+      internalID: 1865946001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_75
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 458
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419a97dae2f1d3c4ca14c2128ca1ff3e
+      internalID: -1433385986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_76
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 502
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057fbebd1df33f84499a2d21bd86a3db
+      internalID: -1661396386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_77
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 458
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbed26d306937504c8a8cba57c51b52e
+      internalID: -329032264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_78
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 458
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c6ab4fc0293e143952b4180fd48329
+      internalID: 529014748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_79
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 458
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfe7a629198bbd49b6a0ec4a15fdba9
+      internalID: -1757246694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_80
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 458
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad28f01318d5f5a4895ebdd7490b0b1a
+      internalID: -1697882697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_81
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 459
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a9863f4f836ce42b83d8dfc6d80a30
+      internalID: -1221777379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_82
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 458
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3a2796a972bed448ad38def0fc0284
+      internalID: 1030502767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_83
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 482
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5236798259a068e4a9ea2d7b39d74063
+      internalID: -693170571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_84
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 450
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9750434b6964c46baf7ca83f9a22d9
+      internalID: -2019451362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 444
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4690856c02ec60d40bd59b2115a88735
+      internalID: -1092885419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_86
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 226
+        width: 205
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c842f762e3fd4a54486f0650e72645b8
+      internalID: -1445483944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_87
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 235
+        width: 166
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5378738c009d848942e987630c7352
+      internalID: 1222435242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_88
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 10
+        width: 174
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757e4d4799d97a240823df1a6344b398
+      internalID: 957828340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_89
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 3
+        width: 181
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07b82a011231654e9f9e5c5022e71de
+      internalID: -534076171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_90
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1
+        width: 187
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31199ea828af78348ae5ef7b90656b50
+      internalID: -1180910324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_0: 228694483
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_1: -2074006608
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_10: -1495122595
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_11: -1322639237
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_12: -590432192
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_13: -539083119
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_14: 287661378
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_15: 1494144640
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_16: 2130596294
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_17: 1666619845
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_18: 1746649696
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_19: 242453713
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_2: 397206737
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_20: -424202053
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_21: -1224641296
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_22: 1935251211
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_23: 1580450042
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_24: -255274276
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_25: 245717202
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_26: -1100853602
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_27: -1184985572
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_28: -2109579564
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_29: -2053596131
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_3: 1971323966
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_30: -834064225
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_31: -944333955
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_32: 1513304128
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_33: -1618184344
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_34: 788930342
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_35: 1413433822
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_36: -274184336
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_37: -1038444937
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_38: 1953222003
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_39: 1198539012
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_4: -105384793
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_40: 1099765815
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_41: -218974053
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_42: 1891010205
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_43: 1064401580
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_44: -1013551742
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_45: -707730746
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_46: -1727694130
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_47: -1512591555
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_48: 854698848
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_49: 1127307918
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_5: 520001672
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_50: 1454878942
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_51: -561152892
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_52: -192491175
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_53: -2117625871
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_54: 1580322035
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_55: -1591407918
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_56: 246831132
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_57: -266724711
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_58: 1571834961
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_59: -871460095
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_6: -1011258600
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_60: -1783461540
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_61: 1841755981
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_62: -1873632309
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_63: -971004914
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_64: 1345135444
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_65: 231783844
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_66: 231089883
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_67: -178693925
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_68: 1797463523
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_69: 143231517
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_7: 490636654
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_70: 1106030121
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_71: -2142285450
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_72: -1759223
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_73: 1063323197
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_74: 1865946001
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_75: -1433385986
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_76: -1661396386
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_77: -329032264
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_78: 529014748
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_79: -1757246694
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_8: 986050641
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_80: -1697882697
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_81: -1221777379
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_82: 1030502767
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_83: -693170571
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_84: -2019451362
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_85: -1092885419
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_86: -1445483944
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_87: 1222435242
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_88: 957828340
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_89: -534076171
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_9: -755631400
+      toppng.com-brave-frontier-fire-sprite-sheets-pixelated-fire-sprite-sheet-1024x960_90: -1180910324
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
