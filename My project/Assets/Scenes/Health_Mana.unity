@@ -884,6 +884,7 @@ MonoBehaviour:
   startPosition: {x: 1, y: 2, z: 3}
   period: 2
   MaximumCount: 10
+  initialDelay: 5
   EnableExtend: 0
   spawnRatios: []
 --- !u!1 &645748535
@@ -1571,8 +1572,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 455.09937}
-  m_SizeDelta: {x: 195.3834, y: 57.8013}
+  m_AnchoredPosition: {x: 872, y: -462}
+  m_SizeDelta: {x: 126.4013, y: 103.2576}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1592082277
 GameObject:
@@ -2100,6 +2101,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 1477706525788912553, guid: 16fb973e85dabf145a10fba589cca0e2, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1836502698}
+    - targetCorrespondingSourceObject: {fileID: 1477706525788912553, guid: 16fb973e85dabf145a10fba589cca0e2, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1836502702}
   m_SourcePrefab: {fileID: 100100000, guid: 16fb973e85dabf145a10fba589cca0e2, type: 3}
 --- !u!1 &1836502697 stripped
 GameObject:
@@ -2220,6 +2224,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1836502702
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1836502697}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eab79062a0565724e97b818b3934e1af, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemHeart: {fileID: 1836502697}
+  spawnTime: 5
 --- !u!1 &1958038876
 GameObject:
   m_ObjectHideFlags: 0

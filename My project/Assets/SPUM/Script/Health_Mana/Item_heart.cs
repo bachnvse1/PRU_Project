@@ -12,14 +12,16 @@ public class Item_heart : MonoBehaviour
     int period = 2; // Mỗi 2 giây xuất hiện 1 enemy
     [SerializeField]
     int MaximumCount = 10; // Số lượng tối đa cho mỗi loại enemy
-    float time = 0;
     [SerializeField]
-    bool EnableExtend;
+    float initialDelay = 5f; // Thời gian delay ban đầu trước khi bắt đầu spawn
+    [SerializeField]
+    bool EnableExtend; // Cho phép mở rộng số lượng enemy
 
     // Define ratios for spawning enemies
     [SerializeField]
     float[] spawnRatios; // e.g., {0.8f, 0.2f} for 80% and 20%
 
+    float time = 0;
     List<GameObject> enemyPool;
 
     void Start()
@@ -42,14 +44,15 @@ public class Item_heart : MonoBehaviour
     {
         time += Time.deltaTime;
 
-        if (time > period)
+        // Chỉ bắt đầu spawn enemy sau khi vượt qua initialDelay
+        if (time > initialDelay && time > period)
         {
             GameObject newEnemy = GetRandomFreeEnemy(); // Random chọn một enemy chưa active
             if (newEnemy != null)
             {
                 newEnemy.SetActive(true);
                 newEnemy.transform.position = new Vector3(Random.Range(-7f, 6.4f), Random.Range(0.5f, 3.6f), newEnemy.transform.position.z);
-                time = 0;
+                time = 0; // Reset thời gian để tiếp tục chu kỳ spawn tiếp theo
             }
         }
     }
