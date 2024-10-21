@@ -7,7 +7,8 @@ public class Health_Player : MonoBehaviour
 {
     public float healthMax = 100f;  // Max health
     private float HealthNow;      // Current health
-    public Image healthBar;              // Health bar image
+    public Image healthBar;       // Health bar image
+    public float healAmount = 20f;  // Amount of health restored on heart collision
 
     void Start()
     {
@@ -40,6 +41,19 @@ public class Health_Player : MonoBehaviour
         updateHealthBar();
     }
 
+    // Function to heal health
+    public void Heal(float amount)
+    {
+        HealthNow += amount;
+        if (HealthNow > healthMax)
+        {
+            HealthNow = healthMax; // Ensure health doesn't exceed the maximum
+        }
+
+        // Update the health bar
+        updateHealthBar();
+    }
+
     // Update the health bar display
     private void updateHealthBar()
     {
@@ -48,4 +62,17 @@ public class Health_Player : MonoBehaviour
             healthBar.fillAmount = HealthNow / healthMax;
         }
     }
+
+    // Handle collision with heart items
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("heart"))
+        {
+            Heal(healAmount); // Heal when colliding with a heart
+
+            // Set the heart to inactive instead of destroying it
+            collision.gameObject.SetActive(false);
+        }
+    }
+
 }
