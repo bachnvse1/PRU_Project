@@ -1,0 +1,4184 @@
+fileFormatVersion: 2
+guid: ff59061b0db89c14ab2f31e648dbb79f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: utramen_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 927
+        width: 8
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1247d6279c919e74792071a810ca3766
+      internalID: 1469004198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 927
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926ffa8da08744340be7c892386b42be
+      internalID: 565484996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 927
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359836e78d1055b47b1f17674d91feab
+      internalID: -1905079472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 927
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ba247479dac7343a4ba6347ce8e39d
+      internalID: 1589951634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 927
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d821db545d363124683b635d38a6ce54
+      internalID: 1128582081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 889
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e2670a9e4d6844fa4033079423cbbc
+      internalID: 1789331015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_6
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 927
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763f1b8302812244e8e24bfba89ea24d
+      internalID: 529409431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 927
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55eaf10f35d80c0419055043b4a6e587
+      internalID: -80502716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_8
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 927
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bea9a9b8c9200a41860bbc1ded9d2db
+      internalID: -1456807628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 927
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87890164b5c8f134c9f0b4233e6b46a0
+      internalID: 1121824348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 908
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfad4a7ad8788d48b68ac57accc2d49
+      internalID: 110771724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 889
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feeede25213ad5240a116ef343ad982c
+      internalID: 1420246157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 889
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bfbb3e614ed3443b6ea191fe12f86b
+      internalID: -807549678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_13
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 889
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3150f6e449fc8741a8291af68891bcd
+      internalID: 1170123635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 889
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397ac8d1fc3b60248842f20dc8099509
+      internalID: -1177179236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_15
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 889
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92a18e16e6a7524a9205488e806b7f1
+      internalID: 1634956456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_16
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 889
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50466a506a5c7274f93acadbae35b60a
+      internalID: 1894618686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_17
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 889
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9233326b86b0ec409c6cf0adc8649fb
+      internalID: -2059091319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_18
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 889
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdf220ec07a4664f95bdfe16a87e209
+      internalID: 971920059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 820
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6041bfcab9417408635deaba3745eb
+      internalID: 290671977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 857
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb197ef8929e494184184aa024a1719
+      internalID: -1055512796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 857
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f8e3b8071003c479e7963f2bb7d5bb
+      internalID: -1860822327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_22
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 857
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f96dbb69722f047a7af6f06f35618f
+      internalID: -46947135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_23
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 857
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aab9702c692a2a419be8f5b92516210
+      internalID: 1462566405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_24
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 857
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14077ab1d2e549142a44eec314216cf1
+      internalID: -1386994789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_25
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 857
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07b635c692005f4f81d7ff1aef535fc
+      internalID: 1729739365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_26
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 857
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c48c1f9dfb643640b6a32e0ddc05789
+      internalID: 148968752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_27
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 820
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4c1c2c8d86cc240a3f60e4ba404888
+      internalID: -2066380329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_28
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 820
+        width: 74
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cb5b138e4ff2f48a53f41fa0f420d2
+      internalID: 1187078996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_29
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 820
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe92682c853162d4e881d3de7936df2c
+      internalID: 1010076906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_30
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 820
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094c6eefebd256041b593134728837dc
+      internalID: -436120356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_31
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 820
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812bb04144cfe8a41823e9bab7e5f824
+      internalID: 1114103954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_32
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 820
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fb2c337d20d6d44b2accb7c591d3c1
+      internalID: -966553572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_33
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 820
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95f5cc4aeffb6c4b97fe98c93946af6
+      internalID: -387419544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_34
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 791
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bf0bb606bc66c45b447c17537b8c7a
+      internalID: -1680056625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_35
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 791
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a08e8e1e0ecd0468653192558bc362
+      internalID: 1846102777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 791
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9e16538b9b399459f9d0df9a1d0fb0
+      internalID: 2034033532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_37
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 791
+        width: 59
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02bbf63aef6c0c4eb6b026216eb4d76
+      internalID: 567590283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 791
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60083a817a108d41b7b2d0904ae34da
+      internalID: 1062362709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_39
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 791
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e495bc97f3b86774f972bfeb1a594073
+      internalID: 430980739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_40
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 791
+        width: 84
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f4211be3eef4d439c54c4b6b592dbb
+      internalID: -1615694917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_41
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 791
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4789bdff368f9846bb0dc4bb6ec2133
+      internalID: -1276834538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_42
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 743
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e7e1814a98b6c478eb5e3ab618ac85
+      internalID: -1321818301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_43
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 743
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39842a17de3e60c478b634302cb8a0c1
+      internalID: 918266515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_44
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 743
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658da11d088877440aa597b681c09c4e
+      internalID: 873584566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_45
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 743
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce95dc78886eeb247b5b1c060fb9b5c6
+      internalID: 591692103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 743
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18837174231ec8a4aa10ff0d60b806f7
+      internalID: 1799193283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_47
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 743
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924c024161c403844abdaf709c535b4a
+      internalID: 2143640046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_48
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 742
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd64ce543a38b440a028ca05e94b949
+      internalID: -1903040122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_49
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 744
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adf6a17e05a72c4483ea1893533a12c
+      internalID: 2002146892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_50
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 743
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c67810289733742b3b76577ff782b3
+      internalID: 1976715005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_51
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 744
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d74f378175d8141826ecc04ffaf949
+      internalID: -1832275070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_52
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 699
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cddd156ee74e646a6a512e381e0260
+      internalID: -525685406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_53
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 699
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b91813081bf6654a8225a2a58ff746a
+      internalID: -1776744737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_54
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 701
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1f93754a3c807459978e87f36dff6e
+      internalID: 2094989295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_55
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 701
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e69f0f80d60bde47bb06fb97a0e30db
+      internalID: -176656935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_56
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 699
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907c26a825e0f4048bc4622be963dddc
+      internalID: -397458055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_57
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 708
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5900749515c39424fab34e017e10f7cc
+      internalID: 877975108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_58
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 712
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d5d4fcea214444eb3fc52ee1b0aa62
+      internalID: 1882208392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_59
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 700
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a81526feb2d23b4ebc0c8356bb87fc5
+      internalID: -9359378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_60
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 647
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1f79c3650d0f1409cd592d0405fa0c
+      internalID: 542841897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_61
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 647
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d0b9fc5f7be794387f9c80d3eb3e02
+      internalID: 1831474954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_62
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 647
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7921c70185e0ca64aa1fa875e2777fe8
+      internalID: 978898551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_63
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 644
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f120ec7b91244a449d842f8d55da6d3
+      internalID: -1878299537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_64
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 644
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a867bd56d95fe4681b4254ce110c49
+      internalID: 1185141345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_65
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 647
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003971d412ac2e04b8ca7587530bb6b9
+      internalID: 945115483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_66
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 644
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163a971fc4a15194580dd8e0b57313e3
+      internalID: -1943323181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_67
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 647
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4aba2466d1298a469b262f30a46f989
+      internalID: -131634537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_68
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 647
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07efffee1a6d54348a3565c1989b0b85
+      internalID: 1563597432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_69
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 647
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bde4701d13a2cd47a2ffbc2d8cde98a
+      internalID: -1831085230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_70
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 647
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecd80831d56d90459587563f8ee1b18
+      internalID: -1147451489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_71
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 596
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be7f09bf4542b1449188ae1f1223266
+      internalID: 1689897881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_72
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 596
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8772bb0e1def35948a822c29e5dc2731
+      internalID: 447893415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_73
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 594
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6703c19a5e7acd7438a8ea4c5b32cc36
+      internalID: 1260730649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_74
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 595
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b51fd74ef79c1c4bb89a4057d20db56
+      internalID: 931921467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_75
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 595
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f606a050301f24193ae5119d6530d7
+      internalID: 43380189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_76
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 595
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed03c44c5c1a4e458f3439c0abf758b
+      internalID: -397681619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_77
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 595
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37b426a24076a84dbab6a6dc659b004
+      internalID: -1934056669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_78
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 556
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf5b6b01a7384b44b8f2c99b86059d1
+      internalID: 1938533831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_79
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 556
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690328b70ab50fa448fa7c0da9c83ae2
+      internalID: -1912533088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_80
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 556
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292eac85eab8eaf49bae4b05607fc2da
+      internalID: -903622545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_81
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 556
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dc780b213b734479ba8cb65989ca76
+      internalID: 865606230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_82
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 556
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5001622beb966f4bb2520ca885eea0c
+      internalID: -217809317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_83
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 556
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccf822f088457d499089fbfeb4a6c8f
+      internalID: -2069164785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_84
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 556
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071b4e134f75d6e488b8322064c66d5e
+      internalID: -1419618422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_85
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 577
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ef44ff7396ef24a90c46ed1dc2360b
+      internalID: 424194888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_86
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 577
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc3e5cc101edd548a6b49d57bb06cd0
+      internalID: 266526972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_87
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 577
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a033ec5fb61b9146b96c666ab002a74
+      internalID: -2139170497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_88
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 577
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00dfb37a30a47b9429282367477b48fe
+      internalID: 1957806149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_89
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 577
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2eee2de4fa7e445999b96cf95b8fa5
+      internalID: 1499243559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_90
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 558
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a363723fe0d57a343afff8b7d9ba4fe8
+      internalID: 482860222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_91
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 558
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f0a0f204487b54282905699b63b588
+      internalID: 79776223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_92
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 558
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88d00fa198770e448b812ecaaec5ef2
+      internalID: -1130612100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_93
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 558
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9defc17cbed25d4e939755b7fedc5c4
+      internalID: -435906913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_94
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 558
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa134262e6d8054eac45fada575d394
+      internalID: 1914392320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_95
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 515
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752dda27f3874f542a36fb572a62e608
+      internalID: 207270796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_96
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 515
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33eedf6b8c647b4bae8caee5b3a33e9
+      internalID: -1912388426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_97
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 515
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d56201dfafc5d7498f21dd051a1aeeb
+      internalID: -259156241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_98
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 462
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87abb3d7866828b4796421504fdad3e4
+      internalID: 111385743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_99
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 462
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948b13086c042f74fb5f460d2762ee26
+      internalID: -1767571654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_100
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 462
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f30c98aaa1f848479baa31a08b79dcb
+      internalID: 1107988072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_101
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 464
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff840dc1dc8cfd7498c5fe41f16fa619
+      internalID: -151692292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_102
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 466
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508f0e30f22ccdf4ab76886798b3488a
+      internalID: 206293045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_103
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 416
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5488752b017c41d4c8c13c7b154f2e86
+      internalID: -103011764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_104
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 416
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aaaea6a5b355b84a9b6a63d7e767c24
+      internalID: -83640512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_105
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 416
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c8fd7a4dd02e344808b3e5852ea55b
+      internalID: 2023304058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_106
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 416
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2670e1b1fae40ac41923a68bc1655ec1
+      internalID: -462411172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_107
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 415
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ad27157a5ab97438dc5c352988e965
+      internalID: 745328853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_108
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 415
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d87a39b620358745bc5b55fb28f0ac0
+      internalID: 405512455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_109
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 415
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0492b6f196850f4f97e1509c5152a89
+      internalID: 949391458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_110
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 416
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8148a20393973c41893472e8806424c
+      internalID: -2112093404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_111
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 416
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a067f3cdbac7bd845b753e1696926412
+      internalID: -1610364471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_112
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 365
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9dfbfeaf0765d49aca33c34886af90
+      internalID: 806824078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_113
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 365
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718e3032d72643d4b80ec04a28072a8c
+      internalID: -375172269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_114
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 366
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2290bff2954a5b24aa6c181960282f53
+      internalID: 851545423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_115
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 359
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135cf2b43d331b7419e9571acc6d2182
+      internalID: -51585449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_116
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 366
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067a0512c9439004b8ce4a37c06ceb0a
+      internalID: -72405609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_117
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 309
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea536b818eeca434f8c1064bed47bf83
+      internalID: 969561803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_118
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 309
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f4d8190130ec24398f697d63e4c55b
+      internalID: -322205052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_119
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 304
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5377b7aa86de0b489cbb052b2447026
+      internalID: -1468715765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_120
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 304
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcf79b5d0021024da30b19b70de1f21
+      internalID: -1342219140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_121
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 304
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e5eb9d753a0c2478e8a5c3b1b0f431
+      internalID: -1615628436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_122
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 305
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8fa79b54489f34a8d5bdd3f7732910
+      internalID: 1435387982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_123
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 248
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7c2961ff16ada4a9af1ee13498081e
+      internalID: 1685956382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_124
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 251
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c939172d493d4f4b87e55ad17afab3b
+      internalID: -1277030138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_125
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 249
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b519ec1f90b5442b84747ecd6201b6
+      internalID: 688101492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_126
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 250
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dd9d57dcd9aeb468160b70373b0b1b
+      internalID: -31227243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_127
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 253
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e4487cfa413954aa7275aad797503b
+      internalID: 312579622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_128
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 254
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198e8cc250045dd4bb66a383187c6461
+      internalID: 150524006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_129
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 249
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eaf2eb98cd516d40aa8870e54300bf0
+      internalID: -1322323582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_130
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 224
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61dabd20e1aa6604eb2b196aff058871
+      internalID: -247084711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_131
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 220
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61c4c2f72f4e1a4dba70bc9669e27e6
+      internalID: -981921005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_132
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 217
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437e8a314c9757242b282ae416dd8dca
+      internalID: 363591243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_133
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 214
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d187d3445d908a340ae45b09a696cb83
+      internalID: 1069257094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_134
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 216
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103005ebc94c23d47a5b0823b2c0d283
+      internalID: -1528445287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_135
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 216
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062483296a023714ca948598be40f498
+      internalID: 997615441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_136
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 216
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f03a85c2e4ee0b499af699979c85e6b
+      internalID: -565054084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_137
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 216
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1574b15c91092db439070d3495a9bb02
+      internalID: 530721314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_138
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 216
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dde154d5bfcaa4dbd67751d3d2ffe2
+      internalID: 388472060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_139
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 217
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42adf6d7d1311114db290d35b4bd5480
+      internalID: 1199108131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_140
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 217
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71692f5053ab5254ea9151ce2fe5419d
+      internalID: 1796477818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_141
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 223
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55859d3241ced8c4088e95f7a8a2afb1
+      internalID: 1649643271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_142
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 223
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443e8c0c606dce548b60204b00da5217
+      internalID: 2014070218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_143
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 217
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a3941b05dc36b45a2de0c4204193a4
+      internalID: -1861836751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_144
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 159
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b943fd06c9311469f91468eae2e94c
+      internalID: -704979193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_145
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 159
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2b135ff0306b042ad38ba3521ce54f
+      internalID: -484774640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_146
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 158
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56ff1945ffd1ab42bcd5ea7048dc272
+      internalID: 1004306081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_147
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 158
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5d6076cf76be2468012e1de5a392e0
+      internalID: 654887086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_148
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 161
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d900e8faed2e3240a53e21d52085823
+      internalID: 158963714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_149
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 161
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7823749e4d856409d017c62c08ded9
+      internalID: 26476427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_150
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 161
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a2562c0ee8fd348823b983f257b615
+      internalID: 1002010565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_151
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 116
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9ce0acd8744944f95507748f9df980
+      internalID: 99053040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_152
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 116
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee750eff26034dc4db47ec56bb6d6697
+      internalID: 1591312318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_153
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 116
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40d126f019320e40a252c6c0c8f6c1d
+      internalID: -2107443669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_154
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 116
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dc20329348516458b3407185ab1e8f
+      internalID: 1856935419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_155
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 116
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9874835151e2a34687490057e4aecb7
+      internalID: -43330997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_156
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 116
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baefd0f1575d7014dbeaf9b55b1f41a8
+      internalID: -1558147498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_157
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 116
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca88acd4b0662b145bcbd4165c20caa9
+      internalID: -329316189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_158
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 116
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cb20a90c04a914f81db35bd4211c4a
+      internalID: -782280500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_159
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 116
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b1e0f349637114bb470542fd774003
+      internalID: -1302375043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_160
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 116
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d8d5e35eb5c684fb29f5ead520a6f8
+      internalID: -1903446400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_161
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 116
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8782874a87da67b4da9d730c49056d6f
+      internalID: 1622957565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_162
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 116
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e540bd12a4ca3dd4ebed1f3a8d8648ad
+      internalID: -113589278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_163
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 59
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe710476317f1974c9329dd6b76193c9
+      internalID: 811323911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_164
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 58
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5359226c215de8e4187073e69ca1fb64
+      internalID: -481652537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_165
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 58
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7020ebe90fe1a4b4a80073bf64aca237
+      internalID: -1769728217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_166
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 58
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b7ace88b9154d4d851b2aacdd132ac
+      internalID: 1326120454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_167
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 58
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f145b044e60e6f8438f06199c37fd583
+      internalID: -731661650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_168
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 58
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d852b2bd1076f34ab1191f1f873fa16
+      internalID: -1580727391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_169
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 58
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880dde69e87af284e9f3080d4262df13
+      internalID: -471165228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_170
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 58
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cabd01b2c69614fb98d933cb95e898
+      internalID: -205342922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_171
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 58
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a441a7f18af4b2458c0b7f981154d3a
+      internalID: 923333885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_172
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 58
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201ea009338553c4e83bf8aefca35637
+      internalID: 501561104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_173
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 58
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cc014aa3bf55f4bb83a3105242f7c0
+      internalID: 2129733151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_174
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 7
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1061da56ed7344da816aca97c2fbb9
+      internalID: 890034350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_175
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 11
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da0ad6c29f7cf74eb6f7ef9305f7e0a
+      internalID: -1126505683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_176
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 8
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc65d6588f65ee345bc50a74d2dd1e03
+      internalID: -1337825307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_177
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 6
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d867833625fb945b4f1289e9c6c82c
+      internalID: 1668577915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_178
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 7
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e99f4646d33c2d428a4d2e9b4415992
+      internalID: 1511912371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_179
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 6
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cd69176d1aa7149b260a3d7a3fcdbe
+      internalID: -1603545216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_180
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 3
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8fa8ef0ca640645a581e26d3cb0150
+      internalID: 1675052357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_181
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236da0f2f9acf854fa58cf30bdb46319
+      internalID: -695794691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_182
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb8b8016998b9c4fb46715c71230cc7
+      internalID: 26662069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_183
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ddd4f19c97c544d98c17dc4a7e9878
+      internalID: 88010831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: utramen_184
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 0
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a79031c58dec148b7453d43204d7fc
+      internalID: 1251958793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      utramen_0: 1469004198
+      utramen_1: 565484996
+      utramen_10: 110771724
+      utramen_100: 1107988072
+      utramen_101: -151692292
+      utramen_102: 206293045
+      utramen_103: -103011764
+      utramen_104: -83640512
+      utramen_105: 2023304058
+      utramen_106: -462411172
+      utramen_107: 745328853
+      utramen_108: 405512455
+      utramen_109: 949391458
+      utramen_11: 1420246157
+      utramen_110: -2112093404
+      utramen_111: -1610364471
+      utramen_112: 806824078
+      utramen_113: -375172269
+      utramen_114: 851545423
+      utramen_115: -51585449
+      utramen_116: -72405609
+      utramen_117: 969561803
+      utramen_118: -322205052
+      utramen_119: -1468715765
+      utramen_12: -807549678
+      utramen_120: -1342219140
+      utramen_121: -1615628436
+      utramen_122: 1435387982
+      utramen_123: 1685956382
+      utramen_124: -1277030138
+      utramen_125: 688101492
+      utramen_126: -31227243
+      utramen_127: 312579622
+      utramen_128: 150524006
+      utramen_129: -1322323582
+      utramen_13: 1170123635
+      utramen_130: -247084711
+      utramen_131: -981921005
+      utramen_132: 363591243
+      utramen_133: 1069257094
+      utramen_134: -1528445287
+      utramen_135: 997615441
+      utramen_136: -565054084
+      utramen_137: 530721314
+      utramen_138: 388472060
+      utramen_139: 1199108131
+      utramen_14: -1177179236
+      utramen_140: 1796477818
+      utramen_141: 1649643271
+      utramen_142: 2014070218
+      utramen_143: -1861836751
+      utramen_144: -704979193
+      utramen_145: -484774640
+      utramen_146: 1004306081
+      utramen_147: 654887086
+      utramen_148: 158963714
+      utramen_149: 26476427
+      utramen_15: 1634956456
+      utramen_150: 1002010565
+      utramen_151: 99053040
+      utramen_152: 1591312318
+      utramen_153: -2107443669
+      utramen_154: 1856935419
+      utramen_155: -43330997
+      utramen_156: -1558147498
+      utramen_157: -329316189
+      utramen_158: -782280500
+      utramen_159: -1302375043
+      utramen_16: 1894618686
+      utramen_160: -1903446400
+      utramen_161: 1622957565
+      utramen_162: -113589278
+      utramen_163: 811323911
+      utramen_164: -481652537
+      utramen_165: -1769728217
+      utramen_166: 1326120454
+      utramen_167: -731661650
+      utramen_168: -1580727391
+      utramen_169: -471165228
+      utramen_17: -2059091319
+      utramen_170: -205342922
+      utramen_171: 923333885
+      utramen_172: 501561104
+      utramen_173: 2129733151
+      utramen_174: 890034350
+      utramen_175: -1126505683
+      utramen_176: -1337825307
+      utramen_177: 1668577915
+      utramen_178: 1511912371
+      utramen_179: -1603545216
+      utramen_18: 971920059
+      utramen_180: 1675052357
+      utramen_181: -695794691
+      utramen_182: 26662069
+      utramen_183: 88010831
+      utramen_184: 1251958793
+      utramen_19: 290671977
+      utramen_2: -1905079472
+      utramen_20: -1055512796
+      utramen_21: -1860822327
+      utramen_22: -46947135
+      utramen_23: 1462566405
+      utramen_24: -1386994789
+      utramen_25: 1729739365
+      utramen_26: 148968752
+      utramen_27: -2066380329
+      utramen_28: 1187078996
+      utramen_29: 1010076906
+      utramen_3: 1589951634
+      utramen_30: -436120356
+      utramen_31: 1114103954
+      utramen_32: -966553572
+      utramen_33: -387419544
+      utramen_34: -1680056625
+      utramen_35: 1846102777
+      utramen_36: 2034033532
+      utramen_37: 567590283
+      utramen_38: 1062362709
+      utramen_39: 430980739
+      utramen_4: 1128582081
+      utramen_40: -1615694917
+      utramen_41: -1276834538
+      utramen_42: -1321818301
+      utramen_43: 918266515
+      utramen_44: 873584566
+      utramen_45: 591692103
+      utramen_46: 1799193283
+      utramen_47: 2143640046
+      utramen_48: -1903040122
+      utramen_49: 2002146892
+      utramen_5: 1789331015
+      utramen_50: 1976715005
+      utramen_51: -1832275070
+      utramen_52: -525685406
+      utramen_53: -1776744737
+      utramen_54: 2094989295
+      utramen_55: -176656935
+      utramen_56: -397458055
+      utramen_57: 877975108
+      utramen_58: 1882208392
+      utramen_59: -9359378
+      utramen_6: 529409431
+      utramen_60: 542841897
+      utramen_61: 1831474954
+      utramen_62: 978898551
+      utramen_63: -1878299537
+      utramen_64: 1185141345
+      utramen_65: 945115483
+      utramen_66: -1943323181
+      utramen_67: -131634537
+      utramen_68: 1563597432
+      utramen_69: -1831085230
+      utramen_7: -80502716
+      utramen_70: -1147451489
+      utramen_71: 1689897881
+      utramen_72: 447893415
+      utramen_73: 1260730649
+      utramen_74: 931921467
+      utramen_75: 43380189
+      utramen_76: -397681619
+      utramen_77: -1934056669
+      utramen_78: 1938533831
+      utramen_79: -1912533088
+      utramen_8: -1456807628
+      utramen_80: -903622545
+      utramen_81: 865606230
+      utramen_82: -217809317
+      utramen_83: -2069164785
+      utramen_84: -1419618422
+      utramen_85: 424194888
+      utramen_86: 266526972
+      utramen_87: -2139170497
+      utramen_88: 1957806149
+      utramen_89: 1499243559
+      utramen_9: 1121824348
+      utramen_90: 482860222
+      utramen_91: 79776223
+      utramen_92: -1130612100
+      utramen_93: -435906913
+      utramen_94: 1914392320
+      utramen_95: 207270796
+      utramen_96: -1912388426
+      utramen_97: -259156241
+      utramen_98: 111385743
+      utramen_99: -1767571654
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
