@@ -1,0 +1,4122 @@
+fileFormatVersion: 2
+guid: 6263b103053085d418672dcd63cf799f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 830
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6eb565e712d6148bf07a26a84ad6ec
+      internalID: -241091178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 830
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7870be350dcc84abe90970bf7e5cad
+      internalID: -1896853040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 830
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da23f263d9b83d04897d9184085ea7c9
+      internalID: -1944270548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 830
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5915d4ce5d305f40b7c5ed969362bc1
+      internalID: 817062479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 838
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49cfd25c804dba46b31ed7622aa3029
+      internalID: 431208342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_5
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 838
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2780962389156594b927722dfd498eb8
+      internalID: -53037918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 834
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6867c404688176d4e836d8d6b7008740
+      internalID: -1506016875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 834
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e9dd32b58728f46bfcd9d685668641
+      internalID: -454034901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_8
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 834
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebddcf18d8330341be960afc324fa7f
+      internalID: -1133862347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_9
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 848
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baec63b4835c1a84dae2ab7f7a7576df
+      internalID: 1638948841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_10
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 848
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4da59d92be8f0438d36658eb0ac969
+      internalID: 404321314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_11
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 834
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee877c02edb9e049966acf62038d527
+      internalID: 1306998524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_12
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 834
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46bb01ff4253d1419293cc860e7162f
+      internalID: 2039436507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_13
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 834
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99c4bbfacdaf2c4c81d1848835fcfd6
+      internalID: -1655528024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 765
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ff92eb3ff018343b0b353f65318921
+      internalID: 392195050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_15
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 773
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6653898bd5ef1eb408644661a9d26ea3
+      internalID: 2061209585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_16
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 765
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea3166885e5c9d4c9d827f67e2a50f8
+      internalID: -293316374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_17
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 765
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ed2d223ee194e428c3c86066229bcf
+      internalID: -1403980485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_18
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 765
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0d79f67b0444b4fad6563ae3b505a4
+      internalID: 692722204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_19
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 773
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9fda145a2269b4f91a87a506faf0d8
+      internalID: -102467189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_20
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 765
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccda3a3446c8824983aff863918cb6e
+      internalID: -153766860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_21
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 765
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0052eebdb7476c46a760fdda98dde74
+      internalID: 1426348687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_22
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 764
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747fa2f469cff754bbbed20f9f6bea70
+      internalID: -354222829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_23
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 764
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8302a234d406d4299dbe7d98c36016
+      internalID: -1293403472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_24
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 764
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc420543bc8b70d4c988ac229fc703cb
+      internalID: -925238505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_25
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 764
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d65a27079c990f448d773a8da41fc26
+      internalID: -1125083394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_26
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 787
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c0130c2d635284795b54110bd6435f
+      internalID: 2032809873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_27
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 764
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e2767b953e192459327738227c339f
+      internalID: -245645326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_28
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 798
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd1a15f0a22c0149b58d1362641f90a
+      internalID: 1880356863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_29
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 764
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9332d5c86e304a43acbc4c07f92da16
+      internalID: 1584766015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 692
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deeaf4665bc762a4d946adcdb64b93c1
+      internalID: -1068893514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_31
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 692
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1485d644fa6014f9cd5281604ced63
+      internalID: -99204801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_32
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 692
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a72c90aea8ebbb4f8fc226f312910bd
+      internalID: -338078833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_33
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 692
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5e957ccf3d7634ca29ecb14802b557
+      internalID: 1493756095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_34
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 692
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589da1c16156c9c429b196f172d0ddd6
+      internalID: 787940226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_35
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 692
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33afb93d9198a5a49b9e401fcf445721
+      internalID: -809279553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_36
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 688
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c28e90375cd3cb438b7c18e48c02961
+      internalID: -1786699610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_37
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 688
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb25e7ad5756a5d4a9b785117ea00db4
+      internalID: 1487976878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_38
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 688
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d0750f9dc421548b58c64bc76e6fb2
+      internalID: 1380432009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_39
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 688
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df31b429c7ee7642b70adcb6a84ce55
+      internalID: 1539670360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_40
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 688
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6010777bdadd8468b32125d3dac42b
+      internalID: -1294309075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_41
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 688
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d3fc55174946f46acc073c8512a5f8
+      internalID: 1882033751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_42
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 688
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c818ba35f2bf9f49aaa549f9e3ce799
+      internalID: -197915587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_43
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 677
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914ebcf9f2ba81545955d8641844f803
+      internalID: 1815504394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_44
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 622
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f03b8af7fa645c46958cc61db340947
+      internalID: 1832924849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_45
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 622
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dff1c5ffbba984abd0322f2e44c12e
+      internalID: -1916029447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_46
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 622
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d2fa2d1f5baea45b11e1fa9216ac28
+      internalID: 1488049444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_47
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 622
+        width: 19
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70321506a01c00429b45d9d747a7cb9
+      internalID: 1113020781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_48
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 633
+        width: 8
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c33174fb6f0fd42bd93dc74278d563
+      internalID: 1217075948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_49
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 622
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1adc211f4701794186d49a916ae84e0
+      internalID: -1719406907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_50
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 622
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10f01d3e3762394aa148a0c9058065d
+      internalID: 1517391241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_51
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 622
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aabeb7052d3fb045ad295b91cdbb79d
+      internalID: 783535528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_52
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 618
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da3a3b505ac369458edde4aaeb9955e
+      internalID: 1557460129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_53
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 618
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3293a6958dae2469af48a64f028d0c
+      internalID: 2118119830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_54
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 618
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ede56b0ef098b84bb3935fcd8ec7a5f
+      internalID: 1664258501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_55
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 618
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2998b5f4bafb8a940b03919e74ca8c64
+      internalID: 663765790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_56
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 618
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d822bcaa2a560884c9fa4b1c2f6086ca
+      internalID: -696756731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_57
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 618
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944441451b4a051479ea843b9e74cb41
+      internalID: 1563412142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_58
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 557
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f46ae428a927244b9eeb8cd3dd8b773
+      internalID: -1786488366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_59
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 557
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0036188ca8d6b5747b8c8efa4c7c2c58
+      internalID: 103288693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 557
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0959e067440dcbe49b511fc894a8b6f2
+      internalID: 1778404688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_61
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 557
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94666f650c10be443af5baa1f70ade84
+      internalID: -1978178219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 557
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f47f7bbb4978f46aca30a66943a149
+      internalID: 1146531734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_63
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 557
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f4c7ff51fbd88439137e2d931c00e6
+      internalID: -940253760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_64
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 557
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e114e6d22550a45ae674bd144e6026
+      internalID: 2002262663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_65
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 491
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5362e076d9876439408cdbe15999f8
+      internalID: 2028835398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_66
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 491
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9178dab927fca094589ffcbf4c9e572f
+      internalID: 786213170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_67
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 491
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a3cb046e7ef384e9fb6f54535d8c31
+      internalID: 772657024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_68
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 540
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6df14839d062844d80cb1cb888d0ab4
+      internalID: -2146677601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_69
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 490
+        width: 77
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bd59bd01e1c474d9f7ca52c7902848
+      internalID: -40573395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_70
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 526
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa28b6bf0954e664fb384addfb4bd277
+      internalID: -1093797746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_71
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 491
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a5906ce3bf11542a91a03f92287a8c
+      internalID: -1912389393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_72
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 491
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b0071d781fb694aa1a1c9f40219594
+      internalID: 1199201924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_73
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 491
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410801d4cfac8e54f8de1bc3c9f14fb5
+      internalID: -582897609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_74
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 491
+        width: 23
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294b39bc391e21249ab23d9ade411aa2
+      internalID: -48143375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_75
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 534
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cfc10cef75c384c98f0eced893281f
+      internalID: -1212797095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_76
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 491
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f888410007a2a4b9720973afe3b5e9
+      internalID: 12904303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_77
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 499
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a169be664b6996c42903f1954b820918
+      internalID: 208009656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_78
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 520
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8313b559d61a6469701387853dcbee
+      internalID: -1982868157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_79
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 520
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adbacdb97235d84398e39a32acd3cee
+      internalID: -1287078131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_80
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 491
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6086b10b443c44f9f8b27cb669f876
+      internalID: -384917602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_81
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 491
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d701ae4d08b0c49b0fffb8baad6ba1
+      internalID: -1882125847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_82
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 427
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098e18f85d506f54d88e30494f8a4d3c
+      internalID: 2634920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_83
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 427
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa09bf44225057847be48c5525d2e9a8
+      internalID: -203343776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_84
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 427
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8515dce6b072aa644831df21fd205cf6
+      internalID: -1552082712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_85
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 427
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f30726ed2597424392a1a507f572d6f
+      internalID: -500813825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_86
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 427
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10447b7da6449064d85d208cb18e13b9
+      internalID: 1923002405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_87
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 427
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3aa0555308b024c832563bd7e49ac9
+      internalID: -507505539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_88
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 429
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89ebc2988c76a64d8889233715476d1
+      internalID: 1940139490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_89
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 429
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4858eff2ad5f55d439fea07a4b32ff45
+      internalID: -662408331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_90
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 429
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd40f05836a61d44b800db56e740e94
+      internalID: -629854760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_91
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 429
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb712b4415eb9a43a7b885dc100dcd1
+      internalID: 1633959237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_92
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 456
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b687e0099701f43b301af981bd383a
+      internalID: -715672345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_93
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 429
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad70f6552cc4d144b42023c7c15c675
+      internalID: 1202080689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_94
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 429
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95747d3416a156a4882aa18edd844684
+      internalID: 1075455281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_95
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 429
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fdc5ac5cabfaf4088e77856f76285a
+      internalID: 1207829188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_96
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 429
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7339ec64db278c40bd18c166ef9b9ca
+      internalID: -795023319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_97
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 449
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b348f8125950544a4ec9cf7a4f8e45
+      internalID: -550247350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_98
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 451
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dcb2ab435f129418c05b70845bcc92
+      internalID: -1424677702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_99
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 362
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18913ffebcfdaae40b24c66fe93ffde1
+      internalID: -77149640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_100
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 362
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d063feb9b5d9f2143ae9da8233989116
+      internalID: -481533210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_101
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 362
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf6f36029c999e4da34580a96fd50f6
+      internalID: -901144268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_102
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 362
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2baf59b4b46cb4343bd8461aa8b7dcba
+      internalID: 82404332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_103
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 362
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f4609534a00db469acb9b7d069ca3d
+      internalID: 1855502202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_104
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 362
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d371cc5f433adc8438c2a6275462bf47
+      internalID: 1834153223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_105
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 362
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57064121b35b7864e9e9d2a194958fb4
+      internalID: 1561523173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_106
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 362
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efffcda14267384bbdfabe3dcb0f0aa
+      internalID: -202380522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_107
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 362
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87939299755fc36478ae14abb6b6b491
+      internalID: -82497697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_108
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 362
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72c77c828f34fd42ab4b8f5389bef46
+      internalID: -637052355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_109
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 362
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b166ebc813fbb834bba5811051351b1c
+      internalID: 1523564636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_110
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 362
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee008bd2a83173a42a73891c2b67a79c
+      internalID: 1089065540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_111
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 296
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325e35834a6dc01459fe34925168bbda
+      internalID: -1431963009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_112
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 296
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67d62fb2eb8fe840a4df93ecc0d5bb5
+      internalID: -1705916510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_113
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 305
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471bc6b131c9cf84f99bc2cf6ac2ba92
+      internalID: 350638882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_114
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 308
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbefdc42486855e4598be2cba71aefc0
+      internalID: 1423564934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_115
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 308
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825629891afe4f74286848f6141e59db
+      internalID: -901252246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_116
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 282
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96885c74e362ca6438f1e4d1d5f4831c
+      internalID: -721356895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_117
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 267
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b560de1701024ea43894845f93936569
+      internalID: -1537866247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_118
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 267
+        width: 48
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35df378901ffd4c4f9deb7f862fe819b
+      internalID: -1150584014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_119
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 267
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944138a1b5c5eb64a841a03a4014f83e
+      internalID: -1302095000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_120
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 209
+        width: 52
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3238cdda1b1c3447bf2d868eb7b25cc
+      internalID: 96787616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_121
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 266
+        width: 48
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a980ae936190214781c7bf3cefe6e68
+      internalID: 1957174704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_122
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 272
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b973e79432e38c42a20e7250c315a49
+      internalID: 1592647776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_123
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 272
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659dc99730b4de64d940208bb67527bf
+      internalID: 350508095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_124
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 272
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4554d2baef29047b82b0fbcb0d88ee
+      internalID: -1341207341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_125
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 272
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda42a4338da84241905aaad9c7be4cc
+      internalID: 1168401177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_126
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 268
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4260075c6e5ee3a48bc2efed59123ddd
+      internalID: 1231354655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_127
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 268
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa18a5c8c90acec4da18b6c3dafbf807
+      internalID: -2131613918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_128
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 226
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed40231e0d57004b8717068ca66363b
+      internalID: -1752275416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_129
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 229
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba245768a01ae394c8e126c4115bcfc2
+      internalID: -1593430632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_130
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 229
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a68e39fc4bf97468689b86a9ad3a07
+      internalID: 1802985692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_131
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 228
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dd08b5ef018fa4ba828dd0a1f07b8b
+      internalID: 1990093281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_132
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 229
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac58f1510a3a9744db5fd5d151963fcb
+      internalID: -295748722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_133
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 209
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc7a24b67274864082157da3a2a28da
+      internalID: -1002156542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_134
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 209
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8bd8c0025a00d4da5dab2119ab4f4f
+      internalID: -527207182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_135
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 209
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fb5b415d816e84599635eab3a89849
+      internalID: 800471920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_136
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 209
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b7be80fedba5a4d95a561380c92f12
+      internalID: 915679540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_137
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 209
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389868962ce58804aace70a0836c0335
+      internalID: 1992122039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_138
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 209
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57dca1359cb4ac4c850a882b3ad98fe
+      internalID: 1414294433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_139
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 211
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5484b64483c34418a7bb2e2a51034b
+      internalID: 624851545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_140
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 211
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2228dce36fc6d704ba0704edbd3e8deb
+      internalID: 1238919248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_141
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 211
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db8ea330f1c42743a1aa4280593e170
+      internalID: -1345269321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_142
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 211
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7788664a0efb1449b7d7a3895ac277
+      internalID: -123101269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_143
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 211
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de21ad01a3bb984d8a7b0cacae805c1
+      internalID: 1995055067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_144
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 155
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e28f8ece567d642b7833dfbdb6d058
+      internalID: 2118068825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_145
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 155
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100362377fa53284e92da38525a24fd8
+      internalID: -1213490450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_146
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 155
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75eb3ff6a3e4eed49a6c50cc1bf24a92
+      internalID: 1935245461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_147
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 155
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd6b82762166354d85a7cbb696ba40a
+      internalID: 1168251220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_148
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 155
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677f0d7139268e448a57420830b3cef3
+      internalID: 1989706158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_149
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 155
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14d1f43eeed3aa4a8f782a317f82faa
+      internalID: -311423396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_150
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 152
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7cd20444965ac4e8d1792136e42a73
+      internalID: 1670439955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_151
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 156
+        width: 53
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059b9891f04f04642b2531d87a788364
+      internalID: -212928758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_152
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 151
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d240e8663678160429d34ced3c950cfc
+      internalID: 2061337523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_153
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 151
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f47eaa6db7638e4a9bd5006c1e9eef6
+      internalID: -1599827640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_154
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 151
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e18bf20dabfb5b42bdfaa983222d6fb
+      internalID: -1153297754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_155
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 151
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b7031b8a051a64cb7dcfb9a6aff3a5
+      internalID: 1589244912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_156
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 151
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18482e150a9db2747b6736233d0d1b26
+      internalID: 548747317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_157
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 151
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cab91641349b04992fae1d36449906
+      internalID: 1026865348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_158
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 93
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730e026bd96fe1d4e94dfbe4ff6c1b84
+      internalID: 354932671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_159
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 93
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bc9b78b49619c46b2eeffca57fe3b7
+      internalID: -285219703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_160
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 93
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63d63961e18b4045a76162a1e15a747
+      internalID: 1897654907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_161
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 93
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde609f82e997d7458cfbbd7e162a262
+      internalID: -1930678580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_162
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 100
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54086d36979f4874784755c473acf15d
+      internalID: 1518816420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_163
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 94
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc2695eec4cf5042b14f24f31de9f13
+      internalID: 549420350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_164
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 95
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7ed09f9c57da640a1b8f6114a8179d
+      internalID: -934484671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_165
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 85
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff216d11cbb3b444b97908141e76c09
+      internalID: -582078615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_166
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 85
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b5ced30733af54fa7a13b06ac8ad99
+      internalID: 929877885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_167
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 85
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db1979564a5d0d43a1b874d9e9018a0
+      internalID: -1035614580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_168
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 85
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be895333f48a754fa7b1177f1c63675
+      internalID: -856431468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_169
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 85
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c644f46bff89f41478b7ce903a0fb3d3
+      internalID: 1326554499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_170
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 85
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3b1097418161248a13597bcd4ec1c4
+      internalID: -1169761077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_171
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 85
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac932fdd37be5f24c8194d81f3921cc9
+      internalID: 1075859714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_172
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 29
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cef65b95ba41924c8558197f0d771e9
+      internalID: -1422454499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_173
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 29
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9de80145c5bb3b40b666d13f8eef4a3
+      internalID: 383185049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_174
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 29
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13991b6fa4fdc2469cfbfa0a83523ea
+      internalID: 2128052642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_175
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 29
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d714ebca1154a184e9565df646351824
+      internalID: -1779390118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_176
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 29
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0733e410caf69084a89b83a279c5dc77
+      internalID: -1848166599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_177
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 29
+        width: 62
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5663d384f42d7914ab013c3475482942
+      internalID: 660716523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_178
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 29
+        width: 62
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4238c0e2ea6588842b24a4b1e9902bea
+      internalID: -1763669986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_179
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 29
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152873fb46959c94db0433e82e6af940
+      internalID: 1123509594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji_sprite_sheet_by_nitrothart_d4hkepe_180
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 29
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caf197fd5fedd74e820cc977f904497
+      internalID: 1079824315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_0: -241091178
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_1: -1896853040
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_10: 404321314
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_100: -481533210
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_101: -901144268
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_102: 82404332
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_103: 1855502202
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_104: 1834153223
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_105: 1561523173
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_106: -202380522
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_107: -82497697
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_108: -637052355
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_109: 1523564636
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_11: 1306998524
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_110: 1089065540
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_111: -1431963009
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_112: -1705916510
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_113: 350638882
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_114: 1423564934
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_115: -901252246
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_116: -721356895
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_117: -1537866247
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_118: -1150584014
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_119: -1302095000
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_12: 2039436507
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_120: 96787616
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_121: 1957174704
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_122: 1592647776
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_123: 350508095
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_124: -1341207341
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_125: 1168401177
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_126: 1231354655
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_127: -2131613918
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_128: -1752275416
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_129: -1593430632
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_13: -1655528024
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_130: 1802985692
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_131: 1990093281
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_132: -295748722
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_133: -1002156542
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_134: -527207182
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_135: 800471920
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_136: 915679540
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_137: 1992122039
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_138: 1414294433
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_139: 624851545
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_14: 392195050
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_140: 1238919248
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_141: -1345269321
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_142: -123101269
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_143: 1995055067
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_144: 2118068825
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_145: -1213490450
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_146: 1935245461
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_147: 1168251220
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_148: 1989706158
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_149: -311423396
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_15: 2061209585
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_150: 1670439955
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_151: -212928758
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_152: 2061337523
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_153: -1599827640
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_154: -1153297754
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_155: 1589244912
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_156: 548747317
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_157: 1026865348
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_158: 354932671
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_159: -285219703
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_16: -293316374
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_160: 1897654907
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_161: -1930678580
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_162: 1518816420
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_163: 549420350
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_164: -934484671
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_165: -582078615
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_166: 929877885
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_167: -1035614580
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_168: -856431468
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_169: 1326554499
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_17: -1403980485
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_170: -1169761077
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_171: 1075859714
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_172: -1422454499
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_173: 383185049
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_174: 2128052642
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_175: -1779390118
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_176: -1848166599
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_177: 660716523
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_178: -1763669986
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_179: 1123509594
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_18: 692722204
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_180: 1079824315
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_19: -102467189
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_2: -1944270548
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_20: -153766860
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_21: 1426348687
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_22: -354222829
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_23: -1293403472
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_24: -925238505
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_25: -1125083394
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_26: 2032809873
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_27: -245645326
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_28: 1880356863
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_29: 1584766015
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_3: 817062479
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_30: -1068893514
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_31: -99204801
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_32: -338078833
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_33: 1493756095
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_34: 787940226
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_35: -809279553
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_36: -1786699610
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_37: 1487976878
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_38: 1380432009
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_39: 1539670360
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_4: 431208342
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_40: -1294309075
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_41: 1882033751
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_42: -197915587
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_43: 1815504394
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_44: 1832924849
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_45: -1916029447
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_46: 1488049444
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_47: 1113020781
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_48: 1217075948
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_49: -1719406907
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_5: -53037918
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_50: 1517391241
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_51: 783535528
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_52: 1557460129
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_53: 2118119830
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_54: 1664258501
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_55: 663765790
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_56: -696756731
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_57: 1563412142
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_58: -1786488366
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_59: 103288693
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_6: -1506016875
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_60: 1778404688
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_61: -1978178219
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_62: 1146531734
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_63: -940253760
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_64: 2002262663
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_65: 2028835398
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_66: 786213170
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_67: 772657024
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_68: -2146677601
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_69: -40573395
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_7: -454034901
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_70: -1093797746
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_71: -1912389393
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_72: 1199201924
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_73: -582897609
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_74: -48143375
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_75: -1212797095
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_76: 12904303
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_77: 208009656
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_78: -1982868157
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_79: -1287078131
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_8: -1133862347
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_80: -384917602
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_81: -1882125847
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_82: 2634920
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_83: -203343776
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_84: -1552082712
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_85: -500813825
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_86: 1923002405
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_87: -507505539
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_88: 1940139490
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_89: -662408331
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_9: 1638948841
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_90: -629854760
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_91: 1633959237
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_92: -715672345
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_93: 1202080689
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_94: 1075455281
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_95: 1207829188
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_96: -795023319
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_97: -550247350
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_98: -1424677702
+      sanji_sprite_sheet_by_nitrothart_d4hkepe_99: -77149640
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
