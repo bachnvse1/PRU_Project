@@ -10,6 +10,7 @@ public class Init : MonoBehaviour
     {
         GameObject selectedCharacter = CharacterSelectScripts.selectedCharacter;
         Instantiate(selectedCharacter, transform.position, Quaternion.identity);
+
         //playerObject.name = selectedCharacter.name;
     }
 }

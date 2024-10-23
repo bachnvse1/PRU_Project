@@ -99,7 +99,7 @@ public class Player_2Movement : MonoBehaviour
     // Khi kết thúc va chạm với nền
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.tag == "nen_dat")
+        if (collision.gameObject.tag == "Ground")
         {
             animator.SetBool("isJumping", false); // Dừng trạng thái nhảy khi tiếp đất
         }
