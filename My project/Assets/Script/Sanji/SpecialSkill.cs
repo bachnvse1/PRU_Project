@@ -20,21 +20,33 @@ public class SpecialSkill : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetMouseButton(0) && coolDownTimer > attackCoolDown)
+        if (Input.GetKey(KeyCode.U) && coolDownTimer > attackCoolDown)
         {
-            Attack();
+            AttackSkill1();
+
+        }
+        if (Input.GetKey(KeyCode.I) && coolDownTimer > attackCoolDown)
+        {
+            AttackSkill2();
 
         }
         coolDownTimer += Time.deltaTime;
     }
 
-    private void Attack()
+    private void AttackSkill1()
     {
         animator.SetTrigger("Skill1");
         coolDownTimer = 0;
 
     }
 
-   
+    private void AttackSkill2()
+    {
+        animator.SetTrigger("Skill2");
+        coolDownTimer = 0;
+
+    }
+
+
 
 }
