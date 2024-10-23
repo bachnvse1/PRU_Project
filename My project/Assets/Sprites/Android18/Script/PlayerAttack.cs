@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class PlayerAttack : MonoBehaviour
+public class PlayerAttackFireball : MonoBehaviour
 {
 	[SerializeField] private float attackCooldown;
 	[SerializeField] private Transform firePoint;
@@ -16,8 +16,9 @@ public class PlayerAttack : MonoBehaviour
 
 	private void Update()
 	{
-		if (Input.GetKey(KeyCode.K) && cooldownTimer > attackCooldown)
+		if (Input.GetKeyDown(KeyCode.K) && cooldownTimer > attackCooldown)
 			Attack();
+		
 
 		cooldownTimer += Time.deltaTime;
 	}
@@ -25,12 +26,14 @@ public class PlayerAttack : MonoBehaviour
 	private void Attack()
 	{
 		cooldownTimer = 0;
-		anim.SetTrigger("attack");
+		anim.SetTrigger("attack_fireball");
+		Debug.Log("Fireball Attack Triggered");
 
 		// Tạo mới một Fireball từ prefab tại vị trí firePoint
 		GameObject newFireball = Instantiate(fireballPrefab, firePoint.position, firePoint.rotation);
 
 		// Gọi hàm SetDirection để thiết lập hướng cho Fireball
 		newFireball.GetComponent<Fireball>().SetDirection(Mathf.Sign(transform.localScale.x));
+		Debug.Log("Fireball Created at: " + firePoint.position);
 	}
 }
