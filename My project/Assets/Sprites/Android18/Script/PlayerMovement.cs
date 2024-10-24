@@ -12,13 +12,16 @@ public class PlayerMovement : MonoBehaviour
 	public float jumpForce = 17f; // Lực nhảy
 	private bool isAttacking = false; // Trạng thái tấn công
 	[SerializeField] public GameObject aura;
-	
+
+	// Tham chiếu đến script ManaPlayer
+	private ManaPlayer manaPlayer;
 
 	void Start()
 	{
 		animator = GetComponent<Animator>();
 		rb = GetComponent<Rigidbody2D>();
 		rb.gravityScale = 3.0f; // Thiết lập trọng lực để rơi nhanh hơn
+		manaPlayer = GetComponent<ManaPlayer>(); // Lấy tham chiếu đến ManaPlayer
 	}
 
 	void Update()
@@ -117,20 +120,33 @@ public class PlayerMovement : MonoBehaviour
 		{
 			animator.SetBool("isDefend", false);
 		}
+
+		// Kiểm tra tăng mana khi bấm phím I
 		if (Input.GetKey(KeyCode.I))
 		{
 			animator.SetBool("isGain", true);
 			aura.SetActive(true);
 			aura.transform.position = transform.position;
 			Debug.Log("Aura position:" + aura.transform.position);
+			// Gọi phương thức tăng mana từ ManaPlayer
+			manaPlayer.GainMana(5f * Time.deltaTime); // Tăng 5 mana mỗi giây
 		}
 		else
 		{
 			animator.SetBool("isGain", false);
 			aura.SetActive(false);
 		}
-	
-}
+
+		// Kiểm tra mất mana khi bấm phím U hoặc O
+		if (Input.GetKeyDown(KeyCode.U))
+		{
+			manaPlayer.UseMana(10f); // Giảm 10 mana khi bấm U
+		}
+		else if (Input.GetKeyDown(KeyCode.O))
+		{
+			manaPlayer.UseMana(10f); // Giảm 10 mana khi bấm O
+		}
+	}
 
 	// Khi kết thúc va chạm với nền
 	private void OnCollisionEnter2D(Collision2D collision)
