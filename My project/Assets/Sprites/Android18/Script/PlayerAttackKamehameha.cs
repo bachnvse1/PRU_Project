@@ -16,7 +16,7 @@ public class PlayerAttackKamehameha : MonoBehaviour
 
 	private void Update()
 	{
-		if (Input.GetKey(KeyCode.L) && cooldownTimer > attackCooldown)
+		if (Input.GetKey(KeyCode.O) && cooldownTimer > attackCooldown)
 			Attack();
 
 		cooldownTimer += Time.deltaTime;

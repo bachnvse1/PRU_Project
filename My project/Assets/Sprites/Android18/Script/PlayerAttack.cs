@@ -16,7 +16,7 @@ public class PlayerAttackFireball : MonoBehaviour
 
 	private void Update()
 	{
-		if (Input.GetKeyDown(KeyCode.K) && cooldownTimer > attackCooldown)
+		if (Input.GetKeyDown(KeyCode.U) && cooldownTimer > attackCooldown)
 			Attack();
 		
 
